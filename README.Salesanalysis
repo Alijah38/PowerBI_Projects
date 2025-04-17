@@ -1,0 +1,68 @@
+
+# Sales Analysis Power BI Dashboard
+
+
+## Project Description
+
+This Power BI project provides a comprehensive analysis of sample sales data from multiple countries, offering key insights into regional performance, product trends, and customer behavior. The dashboard is designed to support data-driven decisions by visualizing KPIs, uncovering patterns, and identifying opportunities for growth across global markets.
+
+The primary goal is to create an interactive and dynamic dashboard that empowers stakeholders to explore data across various dimensions such as country, product category, sales segment, and time.
+
+
+### Dataset Description 
+
+Cost of Goods
+CountryDate
+Discounts
+Discount Band
+Gross Sales
+Manugacturing Price
+Month Name
+Month Number
+Product
+Profit
+Sale Price
+Sales
+Segment
+Units Sold
+Year
+
+
+### Key Features
+
+Interactive Global Map
+
+--Visualize total sales by country.
+
+
+Sales Performance KPIs
+
+--Total Sales, Cost of Goods, Profit Margin, and Units Sold.
+
+--Comparison of performance over time (YoY or MoM trends).
+
+
+Category & Segment Analysis
+
+--Drill-down by product category and customer segment.
+
+--Identify top-performing months and markets.
+
+
+Time Series Trends
+
+--Sales trends over time using line and area charts.
+
+--Seasonality and growth patterns.
+
+
+Custom Tooltips & Drillthrough Pages
+
+--Deeper dive into regional performance and customer behavior.
+
+
+
+### Tech Stack
+
+Power BI Desktop
+
